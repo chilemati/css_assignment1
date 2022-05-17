@@ -1,0 +1,62 @@
+p, a{
+    margin-left: 10px;
+}
+
+.container{
+    margin: 0 30px;
+   background-color: thistle;
+}
+
+body{
+    background: gray;
+}
+
+nav{
+    background-color: blue;
+   padding: 20px;
+}
+
+.hd{
+    text-align: center;
+}
+
+img{
+    margin-left: 36%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+
+.folo{
+    background-color: green;
+    padding: 10px;
+}
+
+.folo1{
+   color: blue;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.name{
+    font-size: 25px;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+
+.para{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    margin-top: 30px;
+    text-indent: 10px;
+    line-height: 40px;
+}
+
+.link{
+    background-color: indigo;
+    padding: 10px;
+}

@@ -1,0 +1,115 @@
+p, a{
+    margin-left: 10px;
+}
+
+.container{
+    margin: 0 30px;
+   background-color: thistle;
+}
+
+body{
+    background: gray;
+}
+
+nav{
+    background-color: blue;
+   padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+
+.hd{
+    text-align: center;
+}
+
+.folo{
+    background-color: green;
+    padding: 10px;
+}
+
+.folo1{
+   color: blue;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.name{
+    font-size: 25px;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+
+.link{
+    background-color: indigo;
+    padding: 10px;
+}
+
+.t1{
+    margin-left: 10px;
+    color: mediumblue;
+}
+
+.post1{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    margin-top: 30px;
+    text-indent: 10px;
+    line-height: 30px;
+    color: darkgreen;
+}
+
+.but{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: mediumslateblue;
+    color: brown;
+}
+
+.t2{
+    margin-left: 10px;
+    color: yellowgreen;
+}
+
+.post2{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    margin-top: 30px;
+    text-indent: 10px;
+    line-height: 30px;
+    color: purple;
+}
+
+.but2{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(41, 38, 59);
+    color: rgb(241, 138, 138);
+}
+
+.t3{
+    margin-left: 10px;
+    color: coral;
+}
+
+.post3{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    margin-top: 30px;
+    text-indent: 10px;
+    line-height: 30px;
+    color: rosybrown;
+}
+
+.but3{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: darkturquoise;
+    color: darkslategray;
+}
